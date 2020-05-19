@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Get Shortlinks
+Plugin Name: Shortlinks
 Description: Get the classic "Get shortlink" from WordPress 3.7. Used inhouse and making use of the WordPress Repo updates.
 Version:     0.5
 Author:      Kostas Vrouvas
-Author URI:  http://kosvrouvas.com
+Author URI:  https://kosvrouvas.com
 License:     GPL2
 License URI:  https://www.gnu.org/licenses/gpl-2.0.html
 Text Domain:  wpshortlinks
